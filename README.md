@@ -1,6 +1,6 @@
 Em portugues:
 - 👋 Ola, eu sou o rick!
-- 👀 Atualmente estou interessado em desenvolvimento java/python.
+- 👀 Estou interessado em desenvolvimento java/python.
 - 🌱 Atualmente estou estudando Java Spring, e POO.
 - 💞️ Anseio ajudar em programas open source, nas duas linguagens.
 - 📫 Me envie uma mensagenzinha no meu email :) :ricardo.fontes@fatec.sp.gov.br
@@ -12,7 +12,7 @@ In english:
 - 🌱 I’m currently learning Java Sprind, and OOP.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Send emails to my student email: ricardo.fontes@fatec.sp.gov.br
-- ⚡ Fun fact: dont be scared, i love cats! So you will found some cats in my codes.
+- ⚡ Fun fact: dont be scared, i love cats! So you will found some cats references in my codes.
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⠟⠉⠉⠻⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -48,8 +48,7 @@ In english:
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⠀⠀⢀⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠙⢿⣿⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡿⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡿⠦⠠⠋⠀⠀⠀⠀⠀⢀⡶⠂⠀⠀⠀⠀⠀⠀⠧⠤⠄⠙⡿⠿⠦⠤⠤⠤⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-ฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅ[ SEE U/Ate depoissss! ]ฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅฅ^•ﻌ•^ฅ
-
+------------------------- SEE U!/ ATE DEPOISSS! ------------------------------------
 <!---
 Ricardu0/Ricardu0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
